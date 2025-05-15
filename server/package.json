@@ -1,0 +1,13 @@
+{
+  "name": "epos",
+  "version": "1.0.0",
+  "description": "Epos project backend.",
+  "license": "ISC",
+  "author": "panacea solution pvt.ltd.",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  }
+}
